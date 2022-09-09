@@ -1,0 +1,22 @@
+{
+  "name": "yescaptcha",
+  "version": "1.0.1",
+  "description": "yescaptcha",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.26.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScoLib/yescaptcha.git"
+  },
+  "author": "klgd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScoLib/yescaptcha/issues"
+  },
+  "homepage": "https://github.com/ScoLib/yescaptcha#readme"
+}
