@@ -1,6 +1,6 @@
 {
   "name": "yescaptcha",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "yescaptcha",
   "main": "index.js",
   "dependencies": {
