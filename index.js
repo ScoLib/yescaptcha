@@ -51,6 +51,7 @@ class Solver {
       task: {
         websiteURL,
         websiteKey,
+        softID: 2305,
         ...args
       }
     }
